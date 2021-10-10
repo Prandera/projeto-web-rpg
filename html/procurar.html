@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <link rel="stylesheet" type="text/css" href="style_procurar.css">
+    <title>RPG Characters | Search</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div name="formulario">
+        <form>
+            <label for="nome">Nome: </label>
+            <input type="text" name="nome" id="nome">
+            <label for="raca">Raça: </label>
+            <select name="raca">
+              <option value="nenhum">Escolher</option>
+              <option value="orc">Orc</option>
+              <option value="humano">Humano</option>
+              <option value="anao">Anão</option>
+              <option value="goblin">Goblin</option>
+              <option value="drainei">Drainei</option>
+              <option value="tauren">Tauren</option>
+              <option value="troll">Troll</option>
+              <option value="elfo">Elfo</option>
+            </select> 
+            <label for="classe">Classe: </label>
+            <select name="raca">
+              <option value="nenhum">Escolher</option>
+              <option value="bruxo">Bruxo</option>
+              <option value="cacadar">Caçador</option>
+              <option value="cacadorddedemonios">Caçador de Demônios</option>
+              <option value="cavaleirodamorte">Cavaleiro da Morte</option>
+              <option value="druida">Druida</option>
+              <option value="guerreiro">Guerreiro</option>
+              <option value="ladino">Ladino</option>
+              <option value="mago">Mago</option>
+              <option value="monge">Monge</option>
+              <option value="paladino">Paladino</option>
+              <option value="sacerdote">Sacerdote</option>
+              <option value="xama">Xamã</option>
+            </select>
+            <label for="nome">Level: </label>
+            <input type="number" name="nome" id="nome" min="1" max="60"> 
+            <label for="btnCriar"></label>
+            <button name="btnProcurar" id="btnProcurar">Procurar</button>
+        </form>
+      </div>
+      <div id="cabecalho">
+        <ul>
+          <li>Nome<p name=NomeLista id=NomeLista></p></li>
+          <li>Raça<p nome=RaçaLista id=RaçaLista></p></li>
+          <li>Classe<p nome=ClasseLista id=ClasseLista></p></li>
+          <li>Level<p nome=LevelLista id=LevelLista></p></li>
+        </ul>
+      </div>
+      <div name="toolbar" id="toolbar">
+        <a id="adicionar" href="adicionar.html">Adicionar</a>
+        <!--<a id="procurar" href="#">Procurar</a>-->
+    </div> 
+  </body>
+</html>

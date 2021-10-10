@@ -1,0 +1,40 @@
+body {
+    background-size: cover;
+    background-image: url(https://avante.biz/wp-content/uploads/WOW-Background/WOW-Background-015.jpg);
+}
+
+h1{
+    display: block;
+    font-size: 40px;
+    color: rgb(255, 204, 0);
+    font-weight: bold;
+    margin-bottom: 15%;
+}
+
+table{
+    margin-bottom: 5%;
+    text-align: center;
+}
+
+a{
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 204, 0);
+}
+
+a#voltar{
+    display: block;
+    text-align:center;
+}
+
+tr{
+    color: rgb(255, 204, 0);
+    font-size: 20px;
+    margin-bottom: 5%;
+}
+
+tr#titulo{
+    text-decoration: underline overline;
+}
+

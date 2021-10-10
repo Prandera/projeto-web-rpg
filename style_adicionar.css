@@ -1,0 +1,87 @@
+body {
+    background-size: cover;
+    background-image: url(https://avante.biz/wp-content/uploads/WOW-Background/WOW-Background-015.jpg);
+}
+
+h1{
+    display: block;
+    font-size: 40px;
+    color: rgb(255, 204, 0);
+    font-weight: bold;
+}
+
+label {
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 204, 0);
+    margin-bottom: 50%;
+}
+
+input, select {
+    border-radius: 50px;
+    background-color:rgb(46, 46, 46);
+    opacity: 0.45;
+    color: white;
+    border-width: medium;
+    border-style: solid;
+    border-color: black;
+    font-size: 15px;
+    text-align: center;
+    width: 15vw;
+    height: 5vh;
+    margin-bottom: 8%;
+}
+
+
+form {
+    text-align: center; 
+    margin-left: auto; 
+    margin-right: auto;
+    margin-top: 10%;
+}
+
+#formulario {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3%;
+    text-align: center;
+}
+
+input, label {
+    width: 15vw;
+    height: 4vh;
+    margin-bottom: 3%;
+}
+
+option {
+    color: white
+}
+
+select{
+    text-align-last: center;
+}
+
+#toolbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: underline;
+    margin-top: auto;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(255, 204, 0);
+}
+    
+a#voltar{
+    display:block;
+    text-align: center;
+}
+
+

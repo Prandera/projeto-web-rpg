@@ -1,0 +1,17 @@
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Prando', 'Orc', 'Cavaleiro da Morte', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Xamimoz', 'Orc', 'Xamã', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Cthaeghya', 'Elfo', 'Mago', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Canticy', 'Orc', 'Ladino', 58);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Vallenin', 'Elfo', 'Caçador de Demônios', 52);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Kapparina', 'Troll', 'Guerreiro', 51);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Sszzas', 'Orc', 'Bruxo', 50);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Matias', 'Drainei', 'Cavaleiro da Morte', 40);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Gorbakh', 'Humano', 'Monge', 21);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Kalmyer', 'Tauren', 'Paladino', 18);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Ronivom', 'Orc', 'Mago', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Patchuto', 'Orc', 'Cavaleiro da Morte', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Lixian', 'Elfo', 'Bruxo', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Barracan', 'Elfo', 'Paladino', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Jairo', 'Tauren', 'Druida', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Durakin', 'Orc', 'Xamã', 60);
+INSERT INTO personagem (nome, raca, classe, level) VALUES('Naji', 'Elfo', 'Monge', 60);

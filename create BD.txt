@@ -1,0 +1,9 @@
+CREATE DATABASE rpgcharacters;
+
+CREATE TABLE personagem (
+	idpersonagem INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+	nome VARCHAR(100) NOT NULL,
+	raca VARCHAR(50) NOT NULL,
+	classe VARCHAR(50),
+	level INT(2)
+);
