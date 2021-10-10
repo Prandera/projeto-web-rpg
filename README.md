@@ -1,7 +1,7 @@
 #### O intuito deste projeto foi desenvolver um sistema web para cadastro de personagens de RPG, baseado no universo World of Warcraft :crossed_swords: , contendo os seguintes dados:
 
-	- #### Nome;
-	
+- #### Nome;
+
  - #### Raça;
 
  - #### Classe;
